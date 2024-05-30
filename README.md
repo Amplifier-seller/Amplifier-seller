@@ -3,7 +3,7 @@
 - PhD student of Life Sciences School, Tsinghua University, Beijing, China.
 ### Research field
 - CADD, AIDD, molecular modeling, computational biology.
-- Development of novel scoring functions of molecular docking.
+- Development of novel strategies for ensemble docking.
 ### Contact details
 Email: nickchan707@outlook.com
 
