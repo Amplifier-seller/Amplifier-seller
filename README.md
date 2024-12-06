@@ -5,5 +5,5 @@
 - Optimization of virtual screening algorithms on HPC cluster
 - CADD, AIDD, molecular modeling, computational biology.
 ### Contact details
-Email: nickchan707@outlook.com
+Email: chengaowei@nibs.ac.cn
 
